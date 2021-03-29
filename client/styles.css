@@ -1,16 +1,16 @@
 /* You can add global styles to this file, and also import other style files */
- @import "~@angular/material/prebuilt-themes/indigo-pink.css";
- 
+@import "~@angular/material/prebuilt-themes/indigo-pink.css";
 
- body, html {
-    min-height:100%;
-    margin:0;
-    padding:0;
-    line-height: 1.5em;
-    background-color: #F0F2F5 ;
-    height: 100%;
-    width: 100%;
-    background-image: url("https://preview.ibb.co/nNRThc/background_image.jpg");
-    background-size: cover;
-    background-repeat: no-repeat;
-          }
+body,
+html {
+  min-height: 100%;
+  margin: 0;
+  padding: 0;
+  line-height: 1.5em;
+  background-color: #f0f2f5;
+  height: 100%;
+  width: 100%;
+  background-image: url("https://i0.wp.com/careerfoundation.com/wp-content/uploads/2017/12/virtual-job-search-services.jpg?fit=1024%2C519&ssl=1");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
